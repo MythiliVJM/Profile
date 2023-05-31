@@ -1,0 +1,21 @@
+.your-profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 250px;
+    height: 350px;
+    background-color: brown;
+    background-color: #FFFFFF;
+    border:2px solid#ebe9e6 ;
+    border-radius: 10px;
+}
+.profile-heading h3{
+    color: #393E41;
+}
+.progress-details p{
+    color:#393E41 ;
+}
+p{
+    cursor: pointer;
+}

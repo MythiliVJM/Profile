@@ -1,0 +1,26 @@
+.main-container{
+    width: 50%;
+    height: 400px;
+    /* background-color: red; */
+}
+.image-container{
+    height: 200px;
+    width: 100%;
+}
+.cover-img{
+    height: 200px;
+    width: 100%;
+    object-fit:cover;
+}
+.profile-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    bottom: 40px;
+    left: 40%;
+}
+.text-container{
+    padding-top: 25px;
+    text-align: center;
+}
